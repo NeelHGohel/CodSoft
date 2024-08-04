@@ -46,7 +46,7 @@ public class GradeCalculator {
 
         // Output
         System.out.println("-----------------------");
-        System.out.println("\nStudent Get");
+        System.out.println("Student Get");
         System.out.println("Total Marks: " + totalMarks);
         System.out.printf("Average Percentage: %.2f\n", avgPercentage);
         System.out.println("Grade: " + grade);
