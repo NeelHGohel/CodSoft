@@ -1,3 +1,13 @@
+/*
+ * Aim: This is the code for the ATM Interface
+ * Author: Gohel Neel
+ * B.Tech. CSE Student At Darshan University
+ * Rajkot, Gujrat, India
+ * Date: 21-08-2024
+ * 
+ */
+
+
 import java.util.Scanner;
 
 class BankAccount {
